@@ -73,7 +73,7 @@ export default function Hero() {
       <ParticleCanvas />
 
       <div className="relative z-10 flex flex-col items-center text-center px-6 max-w-2xl mx-auto">
-        <div ref={logoRef} className="mb-8">
+        <div ref={logoRef} className=mb-8">mb-8 flex justify-center
           <img
             src="assets/hero-logo.png"
             alt="Morphi Logo"
